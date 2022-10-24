@@ -132,3 +132,31 @@ MahasiswaNSP(String nim,String nama, int nilai){
         }
    }
 }
+output:
+NIM	: 1102020
+Nama	: Budi
+Nilai	: 80
+Grade	: A
+=============================================================
+NIM	: 1102021
+Nama	: Aris
+Nilai	: 79
+Grade	: B
+=============================================================
+NIM	: 1102022
+Nama	: Fahmi
+Nilai	: 90
+Grade	: A
+=============================================================
+NIM	: 1102023
+Nama	: CAhyo
+Nilai	: 50
+Grade	: E
+=============================================================
+Jumlah Mahasiswa : 4
+Jumlah Mahasiswa yang Lulus : 3 yaitu [Budi, Aris, Fahmi]
+Jumlah Mahasiswa yang Tidak Lulus : 1 yaitu [CAhyo]
+Jumlah Mahasiswa dengan Nilai A = 2 yaitu [Budi, Fahmi]
+Jumlah Mahasiswa dengan Nilai B = 1 yaitu [Aris]
+Jumlah Mahasiswa dengan Nilai E = 1 yaitu [CAhyo]
+Rata-rata nilai mahasiswa adalah : 80+79+90+50 / 4 = 74.75
